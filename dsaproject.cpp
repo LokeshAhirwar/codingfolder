@@ -9,7 +9,6 @@ int choice;
 void array();
 void traversingArray();
 void sortingarray();
-cout<<"hello"<<endl;
 void searchingarray();
 void insertionarray();
 void mergingarray();
